@@ -38,9 +38,9 @@ const yo = new SobreMi();
 ![PrismaORM](https://img.shields.io/badge/PrismaORM-black?style=flat&logo=prisma)
 
 ### 📊 GitHub Stats
-![Luis GitHub stats](https://nirzak-streak-stats.vercel.app/?user=LuisDev2003&theme=github_dark&hide_border=false)
+![Stats](https://portfolio-luisvs.vercel.app/github-stats)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuisDev2003&layout=donut&langs_count=8)
+![Top Langs](https://portfolio-luisvs.vercel.app/github-top-languages)
 
 ### 🤝 ¿Trabajamos juntos?
 📫 Contáctame desde mi portafolio:  
