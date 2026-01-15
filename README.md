@@ -6,9 +6,7 @@
 class SobreMi {
   constructor() {
     this.nombre = "Luis Alberto Villegas Salazar";
-    this.usuario = "LuisDev2003";
     this.ubicacion = "Ica, Chincha";
-    this.portafolio = "https://portfolio-luisvs.vercel.app";
     this.intereses = [
       "Javascript",
       "Typescript",
