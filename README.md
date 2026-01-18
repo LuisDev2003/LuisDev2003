@@ -36,9 +36,9 @@ const yo = new SobreMi();
 ![PrismaORM](https://img.shields.io/badge/PrismaORM-black?style=flat&logo=prisma)
 
 ### 📊 GitHub Stats
-![Stats](https://portfolio-luisvs.vercel.app/github-stats)
+![Stats](https://portfolio-luisvs.vercel.app/github-stats?cache=1)
 
-![Top Langs](https://portfolio-luisvs.vercel.app/github-top-languages)
+![Top Langs](https://portfolio-luisvs.vercel.app/github-top-languages?cache=1)
 
 ### 🤝 ¿Trabajamos juntos?
 📫 Contáctame desde mi portafolio:  
